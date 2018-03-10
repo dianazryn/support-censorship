@@ -1,0 +1,5 @@
+Tor Browser безусловно может помочь людям получить доступ к вашему веб-сайту в местах, где он заблокирован. Большую часть времени простая загрузка Tor Browser и использование его для перехода на заблокированный сайт позволит получить доступ к нему. В местах, где существует усиленная цензура, у нас есть ряд доступных инструментов обхода цензуры, включая pluggable transports. За дополнительной информацией, пожалуйста, обратитесь к разделу о цензуре в руководстве пользователя Tor Browser.
+
+—
+
+Tor Browser can certainly help people access your website in places where it is blocked. Most of the time, simply downloading the ​Tor Browser and then using it to navigate to the blocked site will allow access. In places where there is heavy censorship we have a number of censorship circumvention options available, including ​pluggable transports. For more information, please see the ​Tor Browser User Manual section on censorship.
