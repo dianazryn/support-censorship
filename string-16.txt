@@ -1,0 +1,21 @@
+* The Tor Project / support - censorship.json / string 16 *
+
+ORIGINAL TEXT
+-------------
+You might be on a censored network, and so you should try using bridges. Some bridges
+are built in to Tor Browser, and you can use those bridges by choosing "configure"
+(then following the prompts) in the Tor Launcher window that pops up when you open
+Tor Browser for the first time. If you need other bridges, you can get them at our
+Bridges website. For more information about bridges, see the ​Tor Browser manual.
+
+TRANSLATION
+-----------
+Возможно, вы находитесь в подвергаемой цензуре сети, поэтому вам следует попробовать
+использовать мосты. Некоторые мосты встроены в Tor Browser, и вы можете использовать
+эти мосты, выбрав «Настроить» (далее следуя подсказкам) в окне запуска Tor, который
+всплывает при первом открытии Tor Browser. Если вам нужны другие мосты, вы можете
+получить их на нашем сайте, посвященном мостам. Для получения более подробной
+информациио мостах, см. руководство Tor Browser.
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
