@@ -18,5 +18,4 @@ pluggable transports. За дополнительной информацией, 
 в руководстве пользователя Tor Browser.
 
 
-
 // (c) Diana Azaryan @dianazryn, 2018.
